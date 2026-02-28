@@ -55,15 +55,5 @@ Tenho foco em **Visão Computacional** e **Deep Learning**, com experiência pr�
 
 ---
 
-### 📊 Estatísticas
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Henriquefuga&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriquefuga&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
-<p align="center">
-  <b>Visitantes</b><br>
-  <img src="![](https://komarev.com/ghpvc/?username=Henriquefuga)" />
-</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
