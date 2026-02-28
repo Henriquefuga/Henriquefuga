@@ -5,7 +5,7 @@
 </div>
 
 ### 🚀 Sobre Mim
-Bacharelado em **Ciência da Computação** pela **Universidade Federal de Catalão (UFCAT)**. Atualmente, sou estagiário de desenvolvimento na **HPE Automotores do Brasil**, onde atuo com análise de sistemas, levantamento de requisitos e melhoria de processos.
+Bacharelado em **Ciência da Computação** pela **Universidade Federal de Catalão (UFCAT)**. Atualmente, sou estagiário de desenvolvimento na **HPE Automotores do Brasil**, onde atuo com análise de sistemas, suporte ao Service Desk e melhoria de processos.
 
 Tenho foco em **Visão Computacional** e **Deep Learning**, com experiência prática no uso de Redes Neurais (U-Net) para monitoramento ambiental via drones. Sou proativo, adaptável e apaixonado por resolver problemas complexos com tecnologia.
 
@@ -63,7 +63,7 @@ Tenho foco em **Visão Computacional** e **Deep Learning**, com experiência pr�
 
 <p align="center">
   <b>Visitantes</b><br>
-  <img src="https://profile-counter.glitch.me/{Henriquefuga}/count.svg" />
+  <img src="![](https://komarev.com/ghpvc/?username=Henriquefuga)" />
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
